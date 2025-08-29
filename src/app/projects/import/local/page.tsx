@@ -42,7 +42,7 @@ const Page = () => {
                     <img src="/designai-logo.svg" alt="designAI" className="h-6" />
                 </Link>
                 <CancelButton />
-            </div>
+            </div> 
             <div className="relative w-full h-full flex items-center justify-center">
                 <div className="relative z-10">
                     <MotionConfig transition={{ duration: 0.5, type: 'spring', bounce: 0 }}>
